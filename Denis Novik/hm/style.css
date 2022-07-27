@@ -1,0 +1,43 @@
+table,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px
+}
+table{
+    width: 1100px ;
+    height: 750px;
+}
+.yellow{
+    width: 250px;
+    background-color: yellow;
+}
+.d{
+ height: 73px;
+}
+.e{
+background-color: lightgrey;
+}
+.salmon{
+    background-color: lightsalmon;
+}
+.h{
+    width: 100px;
+   background-color: green;
+    
+}
+.h1{
+    background-color: green;
+}
+#hh{
+    height: 60px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#feed{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#ss{
+    width: 260px;
+    height: 60px;
+}
